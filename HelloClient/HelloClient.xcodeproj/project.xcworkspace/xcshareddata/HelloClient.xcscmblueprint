@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E6BCE5F13E4B4E696D396EB10677FD4EFFE9FBF5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E6BCE5F13E4B4E696D396EB10677FD4EFFE9FBF5" : 0,
+    "EC83273D283C078934A6ED64398B0F4211C1C01D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4C2DA913-1D9F-40FE-8C50-FF714DE8CE85",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E6BCE5F13E4B4E696D396EB10677FD4EFFE9FBF5" : "CarthageDynamicFrameworkClient\/",
+    "EC83273D283C078934A6ED64398B0F4211C1C01D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HelloClient",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HelloClient\/HelloClient.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alan-honeycutt\/CarthageDynamicFrameworkClient.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E6BCE5F13E4B4E696D396EB10677FD4EFFE9FBF5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/ismbldpr01:8080\/tfs\/MobileCollection\/_git\/MM_MOBILE_FRAMEWORK_AUTHMANAGER_IOS_GIT",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC83273D283C078934A6ED64398B0F4211C1C01D"
+    }
+  ]
+}
